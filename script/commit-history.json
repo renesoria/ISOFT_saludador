@@ -57,17 +57,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "63a904715158d7e16b2e6d74611ab4c1d90f07ff",
     "author": "Soria",
     "commit": {
       "date": "2026-08-25T03:53:36.000Z",
       "message": "feat:saludar por genero",
-      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/63a904715158d7e16b2e6d74611ab4c1d90f07ff"
     },
     "stats": {
       "total": 38,
       "additions": 28,
       "deletions": 10,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-25T03:59:26.000Z",
+      "message": "feat:saludar por edad",
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 14,
+      "deletions": 2,
       "date": "2026-08-25"
     },
     "coverage": 0,
