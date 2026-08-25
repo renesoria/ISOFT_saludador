@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "3d2bfb91f1a1763450c67af2972bca944121c6b3",
     "author": "Soria",
     "commit": {
       "date": "2026-08-25T03:26:45.000Z",
       "message": "feat:saludar con hola",
-      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/3d2bfb91f1a1763450c67af2972bca944121c6b3"
     },
     "stats": {
       "total": 66,
       "additions": 33,
       "deletions": 33,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-25T03:39:46.000Z",
+      "message": "feat: saludar por nombre",
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 7,
+      "deletions": 4,
       "date": "2026-08-25"
     },
     "coverage": 0,
