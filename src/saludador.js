@@ -4,6 +4,26 @@ function saludar(nombre, genero, edad, idioma) {
 
     let saludo;
 
+    if (idioma === "ingles") {
+        if (horaActual < 12) {
+            saludo = "Good morning";
+        } else if (horaActual < 18) {
+            saludo = "Good afternoon";
+        } else {
+            saludo = "Good evening";
+        }
+
+        if (edad > 30) {
+            if (genero === "femenino") {
+                return saludo + " Mrs. " + nombre;
+            }
+
+            return saludo + " Mr. " + nombre;
+        }
+
+        return saludo + " " + nombre + ", welcome";
+    }
+
     if (horaActual < 12) {
         saludo = "Buenos días";
     } else if (horaActual < 18) {

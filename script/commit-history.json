@@ -95,17 +95,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "2607e5ce21d7c02df39641b056bf22aa9c7a243b",
     "author": "Soria",
     "commit": {
       "date": "2026-08-25T04:04:10.000Z",
       "message": "feat:saludar en español",
-      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/2607e5ce21d7c02df39641b056bf22aa9c7a243b"
     },
     "stats": {
       "total": 9,
       "additions": 7,
       "deletions": 2,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-08-25T04:07:24.000Z",
+      "message": "feat:saludar en ingles",
+      "url": "https://github.com/renesoria/ISOFT_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 21,
+      "deletions": 0,
       "date": "2026-08-25"
     },
     "coverage": 0,
