@@ -3,7 +3,15 @@ function saludar(nombre, genero, edad, idioma) {
     let horaActual = fechaActual.getHours();
 
     let saludo;
-
+    //edad invalida
+    if(edad>120 || edad<0){
+        return alert("Edad no válida");
+    }
+    //nombre vacio
+    if(nombre==""){
+        return "Hola visitante";
+    }
+    //idioma ingles
     if (idioma === "ingles") {
         if (horaActual < 12) {
             saludo = "Good morning";
@@ -24,6 +32,7 @@ function saludar(nombre, genero, edad, idioma) {
         return saludo + " " + nombre + ", welcome";
     }
 
+    //español
     if (horaActual < 12) {
         saludo = "Buenos días";
     } else if (horaActual < 18) {
